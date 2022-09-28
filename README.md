@@ -36,6 +36,6 @@ María José Soto Castro
 
 ## Asesorías de programación
 
-Alumons participantes: 
+Alumnos participantes: 
 Karen Cebreros López (2022)
 Rodrigo Terán Hernández (2022)
