@@ -66,7 +66,7 @@ Viviana Elizabeth Dueñas Chavez (2022)
 Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto consiste en un autocalificador de código que se usa en materias de programación en diferentes universidades. El estudiante asignado a este cursos se encarga de darle mantenimiento a la plataforma, actualizar paquetes y actualizaciones de seguridad y extiende la funcionalidad de la plataforma. 
 
 ### Becarios involucrados:
-Carlos Alberto Hurtado Sánchez
+Carlos Alberto Hurtado Sánchez (2019 - 2022)
 
 
 ## Calificar Materias
