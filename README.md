@@ -92,7 +92,7 @@ Diana Lucía Dueñas Chavez (2017 - 2020)
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene. 
 
 ### 2017
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2017 jun.jpg)
+![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2017.jpg)
 
 ### 2018
 ![Comida Becarios](images/2018.jpg)
@@ -104,4 +104,4 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
 ![Comida Becarios](images/2019.jpg)
 
 ### 2022
-![Comida Becarios](images/Jun 2022.jpg)
+![Comida Becarios](images/2022.jpg)
