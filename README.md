@@ -86,22 +86,26 @@ María Azul Rosales Nachón (2022)
 René Ojeda Vega (2019 - 2020)
 Israel Iván Arroyo Parada (2019 - 2021)
 Diana Lucía Dueñas Chavez (2017 - 2020)
-
+Juan Arturo Cruz Cardona (2018 - 2020)
+Melannie Isabel Torres (2018 - 2019)
+Luis Eduardo Espinosa (2017 - 2019)
+Esteban Perez (2016 - 2019)
+Victor Manuel Delgado Gnzalez (2016 - 2019)
 
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene. 
 
-### 2017
+### 2017  ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2017.jpg)
 
-### 2018
+### 2018  ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2018.jpg)
 
-### 2019
+### 2019 ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2019.jpg)
 
-### 2020
+### 2020 ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2020.jpg)
 
-### 2022
+### 2022 ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2022.jpg)
