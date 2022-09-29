@@ -107,18 +107,10 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene. 
-
-### 2017  ... ish
-![Comida Becarios](images/2017.jpg)
-
-### 2018  ... ish
-![Comida Becarios](images/2018.jpg)
-
-### 2019 ... ish
-![Comida Becarios](images/2019.jpg)
-
-### 2020 ... ish
-![Comida Becarios](images/2020.jpg)
-
-### 2022 ... ish
-![Comida Becarios](images/2022.jpg)
+2017 Juegos de Rol | 2018  Toki Sushi
+:-------------------------:|:-------------------------:
+![Comida Becarios](images/2017.jpg)  | ![Comida Becarios](images/2018.jpg)
+2019 Juegos de Mesa| 2020 Sushi en Pandemia
+![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg)
+2022 Alitas y Hamburguesas |
+![Comida Becarios](images/2022.jpg) |
