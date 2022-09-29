@@ -96,7 +96,7 @@ Victor Manuel Delgado Gnzalez (2016 - 2019)
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene. 
 
 ### 2017  ... ish
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2017.jpg)
+![Comida Becarios](images/2017.jpg)
 
 ### 2018  ... ish
 ![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2018.jpg)
