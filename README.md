@@ -43,10 +43,6 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 ![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2b](images/lobby2.png) | ![Lobby Edificio 2c](images/lobby3.jpeg)
 :-------------------------:|:-------------------------:|-------------------------:
 
-
-
-
-
 ### Becarios involucrados: 
 - María Azul Rosales Nachón (2021 - 2023)
 - Oscar Enrique Delgadillo Ochoa (2021 - 2022)
@@ -77,6 +73,10 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 ## Mantenimiento a plataforma Alpha Grader
 
 Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto consiste en un autocalificador de código que se usa en materias de programación en diferentes universidades. El estudiante asignado a este cursos se encarga de darle mantenimiento a la plataforma, actualizar paquetes y actualizaciones de seguridad y extiende la funcionalidad de la plataforma. 
+
+![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png)
+:-------------------------:|:-------------------------:|-------------------------:
+
 
 ### Becarios involucrados:
 Carlos Alberto Hurtado Sánchez (2019 - 2022)
