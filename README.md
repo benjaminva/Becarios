@@ -56,7 +56,10 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 ## Eventos con Gamification (Juegos de Rol o Juegos de Mesa)
 
 Generación de contenidos para ser utilizado en dinámicas de gamificación como eventos de captación, y actividades extracurriculares.
-
+![games1](images/games1.JPG) | ![games2](images/games2.JPG) |![games3](images/games3.JPG) 
+:-------------------------:|:-------------------------:|-------------------------:
+![games4](images/games4.JPG) | ![games5](images/games5.JPG) |![games16](images/games6.JPG) 
+:-------------------------:|:-------------------------:|-------------------------:
 ### Becarios involucrados: 
 Emilio Aguilera Carlín (2022)
 
