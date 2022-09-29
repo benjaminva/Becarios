@@ -99,13 +99,13 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
 ![Comida Becarios](images/2017.jpg)
 
 ### 2018  ... ish
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2018.jpg)
+![Comida Becarios](images/2018.jpg)
 
 ### 2019 ... ish
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2019.jpg)
+![Comida Becarios](images/2019.jpg)
 
 ### 2020 ... ish
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2020.jpg)
+![Comida Becarios](images/2020.jpg)
 
 ### 2022 ... ish
-![Comida Becarios](https://github.com/benjaminva/Becarios/blob/main/images/2022.jpg)
+![Comida Becarios](images/2022.jpg)
