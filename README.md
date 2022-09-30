@@ -41,7 +41,7 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inteligente donde se muestren trabajos realizados por alumnos de carreras enfocadas al desarrollo de tecnología e investigación. Los becarios se encargan de manejar los servidores, generar los contenidos a desplegar, y extender la funcionalidad del proyecto para incluir interfaces de navegación con visión computacional.
 
 ![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2b](images/lobby2.png) | ![Lobby Edificio 2c](images/lobby3.jpeg)
-:-------------------------:|:-------------------------:|-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 
 ### Becarios involucrados: 
 - María Azul Rosales Nachón (2021 - 2023)
@@ -56,10 +56,13 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 ## Eventos con Gamification (Juegos de Rol o Juegos de Mesa)
 
 Generación de contenidos para ser utilizado en dinámicas de gamificación como eventos de captación, y actividades extracurriculares.
+
 ![games1](images/games1.JPG) | ![games2](images/games2.JPG) |![games3](images/games3.JPG) 
-:-------------------------:|:-------------------------:|-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 ![games4](images/games4.JPG) | ![games5](images/games5.JPG) |![games16](images/games6.JPG) 
-:-------------------------:|:-------------------------:|-------------------------:
+
+
+
 ### Becarios involucrados: 
 Emilio Aguilera Carlín (2022)
 
@@ -78,7 +81,7 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto consiste en un autocalificador de código que se usa en materias de programación en diferentes universidades. El estudiante asignado a este cursos se encarga de darle mantenimiento a la plataforma, actualizar paquetes y actualizaciones de seguridad y extiende la funcionalidad de la plataforma. 
 
 ![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png)
-:-------------------------:|:-------------------------:|-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 
 
 ### Becarios involucrados:
