@@ -40,8 +40,8 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 
 Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inteligente donde se muestren trabajos realizados por alumnos de carreras enfocadas al desarrollo de tecnología e investigación. Los becarios se encargan de manejar los servidores, generar los contenidos a desplegar, y extender la funcionalidad del proyecto para incluir interfaces de navegación con visión computacional.
 
-![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2b](images/lobby2.png) | ![Lobby Edificio 2c](images/lobby3.jpeg)
-:-------------------------:|:-------------------------:|:-------------------------:
+![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2c](images/lobby3.jpeg)
+:-------------------------:|:-------------------------:
 
 ### Becarios involucrados: 
 - María Azul Rosales Nachón (2021 - 2023)
