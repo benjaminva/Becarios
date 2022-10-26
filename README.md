@@ -41,8 +41,10 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inteligente donde se muestren trabajos realizados por alumnos de carreras enfocadas al desarrollo de tecnología e investigación. Los becarios se encargan de manejar los servidores, generar los contenidos a desplegar, y extender la funcionalidad del proyecto para incluir interfaces de navegación con visión computacional.
 
 
- ![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2c](images/lobby3.jpeg) 
- :--------: | :--------: 
+Lobby Edificio 2 | Lobby Edificio 2
+:-------------------------:|:-------------------------:
+![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2c](images/lobby3.jpeg) 
+ 
 
 
 ### Becarios involucrados: 
@@ -82,7 +84,8 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 
 Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto consiste en un autocalificador de código que se usa en materias de programación en diferentes universidades. El estudiante asignado a este cursos se encarga de darle mantenimiento a la plataforma, actualizar paquetes y actualizaciones de seguridad y extiende la funcionalidad de la plataforma. 
 
-|![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png) |
+
+![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png) 
 |:-----------------------:|:-----------------------:|:-----------------------:|
 
 
