@@ -84,9 +84,10 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 
 Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto consiste en un autocalificador de código que se usa en materias de programación en diferentes universidades. El estudiante asignado a este cursos se encarga de darle mantenimiento a la plataforma, actualizar paquetes y actualizaciones de seguridad y extiende la funcionalidad de la plataforma. 
 
-
+Laboratorios | Pruebas | Paneles de Reportes
+:-----------------------:|:-----------------------:|:-----------------------:
 ![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png) 
-|:-----------------------:|:-----------------------:|:-----------------------:|
+
 
 
 ### Becarios involucrados:
@@ -119,9 +120,9 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene. 
 2017 Juegos de Rol | 2018  Toki Sushi
-| :-----------------------: | :-----------------------: | 
-| ![Comida Becarios](images/2017.jpg)  | ![Comida Becarios](images/2018.jpg)| 
-| 2019 Juegos de Mesa | 2020 Sushi en Pandemia |
-| ![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg) |
-| 2022 Alitas y Hamburguesas |  2022 Por venir |
-| ![Comida Becarios](images/2022.jpg) |  |
+ :-----------------------: | :-----------------------: 
+ ![Comida Becarios](images/2017.jpg)  | ![Comida Becarios](images/2018.jpg) 
+ 2019 Juegos de Mesa | 2020 Sushi en Pandemia 
+ ![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg) 
+ 2022 Alitas y Hamburguesas |  2022 Por venir 
+ ![Comida Becarios](images/2022.jpg) |  
