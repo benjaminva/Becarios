@@ -15,13 +15,13 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 
 
 ### Becarios involucrados:
-- Andrea Piñeiro Cavasos (2019 - 2022)
-- Karen Cebreros López  (2020 - 2021)
-- Arisbeth Aguirre Pontaza (2022)
-- Leonardo Alvarado Menéndez  (2021 - 2022)
-- Olivia Araceli Morales Quezada (2022)
-- Guillermo Sanchez Barrón (2018 - 2019)
-- Viviana Elizabeth Dueñas Chavez (2019 - 2020)
+- Andrea Piñeiro Cavasos (2019 - 2022)  (Dev.)
+- Karen Cebreros López  (2020 - 2021)  (Dev.)
+- Arisbeth Aguirre Pontaza (2022)  (Dev.)
+- Leonardo Alvarado Menéndez  (2021 - 2022) (Dev.)
+- Olivia Araceli Morales Quezada (2022) (Dev.)
+- Guillermo Sanchez Barrón (2018 - 2019)  (Dev.)
+- Viviana Elizabeth Dueñas Chavez (2019 - 2020) (Dev.)
 
 ## Simulador para Aprendizaje usando City Skylines  (serious games)
 
@@ -29,10 +29,10 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 
 [Wiki introducción al proyecto](https://nine-vinca-8ca.notion.site/WIKI-COMO-JUGAR-CITY-SKYLINES-Y-SOBREVIVIR-EN-EL-INTENTO-d833a3f2544745b0b6e967a779eeff5a) y sobre city skylines.
 
-El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urbanismo](https://www.youtube.com/watch?v=Sf_5PrXlWWo)
+El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urbanismo](https://github.com/salgue441/City-Skylines-Mod)
 
 ### Becarios involucrados: 
-- Carlos Salguero (2022 -2023)
+- Carlos Salguero (2022 -2023)  (Lead Dev.)
 - Diego Gerardo Sánchez Moreno (2022)
 - Samir Baidon Pardo (2022 -2023)
 - María José Soto Castro (2022 -2023)
@@ -50,10 +50,10 @@ Lobby Edificio 2 | Lobby Edificio 2
 
 
 ### Becarios involucrados: 
-- María Azul Rosales Nachón (2021 - 2023)
+- María Azul Rosales Nachón (2021 - 2023) (Lead Dev)
 - Oscar Enrique Delgadillo Ochoa (2021 - 2022)
 - Cristian Leilael Rico Espinosa (2021 - 2023)
-- Olivia Araceli Morales Quezada (2021 - 2023)
+- Olivia Araceli Morales Quezada (2021 - 2023) (Team Leader)
 - René Ojeda Vega (2019 - 2020)
 - Israel Iván Arroyo Parada (2020 - 2021)
 - Viviana Elizabeth Dueñas Chavez (2020 - 2021)
