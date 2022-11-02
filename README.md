@@ -29,6 +29,8 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 
 [Wiki introducción al proyecto](https://nine-vinca-8ca.notion.site/WIKI-COMO-JUGAR-CITY-SKYLINES-Y-SOBREVIVIR-EN-EL-INTENTO-d833a3f2544745b0b6e967a779eeff5a) y sobre city skylines.
 
+El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urbanismo](https://www.youtube.com/watch?v=Sf_5PrXlWWo)
+
 ### Becarios involucrados: 
 - Carlos Salguero (2022 -2023)
 - Diego Gerardo Sánchez Moreno (2022)
