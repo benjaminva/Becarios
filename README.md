@@ -128,5 +128,5 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
  ![Comida Becarios](images/2017.jpg)  | ![Comida Becarios](images/2018.jpg) 
  2019 Juegos de Mesa | 2020 Sushi en Pandemia 
  ![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg) 
- 2022 Alitas y Hamburguesas |  2022 Por venir 
- ![Comida Becarios](images/2022.jpg) |  
+ 2022 Alitas y Hamburguesas |  2022 Cafe Tim Hortons
+ ![Comida Becarios](images/2022.jpg) |   ![Comida Becarios](images/2022dic.jpg) 
