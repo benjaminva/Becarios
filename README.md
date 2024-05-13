@@ -15,13 +15,14 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 
 
 ### Becarios involucrados:
-- Andrea Piñeiro Cavasos (2019 - 2022)  (Dev.)
-- Karen Cebreros López  (2020 - 2021)  (Dev.)
-- Arisbeth Aguirre Pontaza (2022)  (Dev.)
-- Leonardo Alvarado Menéndez  (2021 - 2022) (Dev.)
-- Olivia Araceli Morales Quezada (2022) (Dev.)
-- Guillermo Sanchez Barrón (2018 - 2019)  (Dev.)
+- Guillermo Sanchez Barrón (2018 - 2019) (Dev.)
 - Viviana Elizabeth Dueñas Chavez (2019 - 2020) (Dev.)
+- Andrea Piñeiro Cavasos (2019 - 2022) (Dev.)
+- Karen Cebreros López (2020 - 2023) (Dev.)
+- Leonardo Alvarado Menéndez (2021 - 2022) (Dev.)
+- Olivia Araceli Morales Quezada (2022 - 2023) (Dev.)
+- Arisbeth Aguirre Pontaza (2022 - 2023) (Dev.)
+- Rodrigo Terán Hernández (2024)
 
 ## Simulador para Aprendizaje usando City Skylines  (serious games)
 
@@ -32,11 +33,11 @@ Generar escenarios simulaciones útiles para la enseñanza de conceptos de urban
 El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urbanismo](https://github.com/salgue441/City-Skylines-Mod)
 
 ### Becarios involucrados: 
-- Carlos Salguero (2022 -2023)  (Lead Dev.)
-- Diego Gerardo Sánchez Moreno (2022)
-- Samir Baidon Pardo (2022 -2023)
-- María José Soto Castro (2022 -2023)
-
+- María José Soto Castro (2022 - 2023)
+- Samir Baidon Pardo (2022 - 2024)
+- Carlos Salguero (2022 - 2024) (Lead Dev.)
+- Diego Gerardo Sánchez Moreno (2022 - 2024)
+- José Pablo González Ávila (2024)
 
 ## Despliegue de Contentidos Inteligentes 
 
@@ -50,14 +51,19 @@ Lobby Edificio 2 | Lobby Edificio 2
 
 
 ### Becarios involucrados: 
-- María Azul Rosales Nachón (2021 - 2023) (Lead Dev)
-- Oscar Enrique Delgadillo Ochoa (2021 - 2022)
-- Cristian Leilael Rico Espinosa (2021 - 2023)
-- Olivia Araceli Morales Quezada (2021 - 2023) (Team Leader)
 - René Ojeda Vega (2019 - 2020)
+- Diana Lucía Dueñas Chavez (2019 - 2021)
 - Israel Iván Arroyo Parada (2020 - 2021)
 - Viviana Elizabeth Dueñas Chavez (2020 - 2021)
-- Diana Lucía Dueñas Chavez (2019 - 2021)
+- María Azul Rosales Nachón (2021 - 2022) (Lead Dev)
+- Oscar Enrique Delgadillo Ochoa (2021 - 2023)
+- Olivia Araceli Morales Quezada (2021 - 2023) (Team Leader)
+- Cristian Leilael Rico Espinosa (2021 - 2023)
+- Humberto Mondragón García (2024)
+- Shaula Suhail Paz Garay (2024)
+- Frida Alexia Arcadia Luna (2024)
+- Mateo Minghi Vega (2024)
+- Daniel Sebastián Cajas Morales (2024)
 
 ## Eventos con Gamification (Juegos de Rol o Juegos de Mesa)
 
@@ -70,7 +76,7 @@ Generación de contenidos para ser utilizado en dinámicas de gamificación como
 
 
 ### Becarios involucrados: 
-Emilio Aguilera Carlín (2022)
+- Emilio Aguilera Carlín (2022)
 
 
 ## Asesorías de programación
@@ -78,9 +84,9 @@ Emilio Aguilera Carlín (2022)
 Dar asesorías de programación de python y C++ a alumnos de otros semestres, se espera que den entre 2 y 3 horas a la semana de asesorías, estableciendo un calendario que se pueda compartir en los cursos de programación para que ahí se agenden las sesiones de asesoría.  
 
 ### Becarios involucrados:
-- Karen Cebreros López (2022)
-- Rodrigo Terán Hernández (2022)
-- Viviana Elizabeth Dueñas Chavez (2022)
+- Rodrigo Terán Hernández (2022 - 2023)
+- Viviana Elizabeth Dueñas Chavez (2022 - 2023)
+- Karen Cebreros López (2022 - 2024)
 
 ## Mantenimiento a plataforma Alpha Grader
 
@@ -101,23 +107,50 @@ Carlos Alberto Hurtado Sánchez (2019 - 2022)
 Revisar avances de proyecto durante el semestre para brindar retroalimentación oportuna en materias del core de programación: TC1028, TC1033, TC1030, TC1031 y materias de programación planes previos. Normalemente todos los becarios califican como la mitad de su carga de trabajo, por ello procuro repartir grupos grandes entre varios becarios para que en promedio revisen entre 10 y 15 avances por semana. 
 
 ### Becarios involucrados:
-- Carlos Emilio Magaña Arias (2019 - 2022)
+- Victor Manuel Delgado Gonzalez (2016 - 2019)
+- Esteban Perez (2016 - 2019)
+- Luis Eduardo Espinosa (2017 - 2019)
+- Diana Lucía Dueñas Chavez (2017 - 2020)
+- Melannie Isabel Torres (2018 - 2019)
+- Juan Arturo Cruz Cardona (2018 - 2020)
 - Samuel Octavio González Azpeitia (2018 - 2022)
-- Karen Cebreros López (2021 - 2022)
+- René Ojeda Vega (2019 - 2020)
+- Israel Iván Arroyo Parada (2019 - 2023)
+- Viviana Elizabeth Dueñas Chavez (2019 - 2023)
+- Carlos Emilio Magaña Arias (2019 - 2022)
 - Andrea Piñeiro Cavasos (2020 - 2022)
-- Rodrigo Terán Hernández (2022)
-- Viviana Elizabeth Dueñas Chavez (2019 - 2020)
+- Karen Cebreros López (2021 - 2024)
+- Rodrigo Terán Hernández (2022 - 2023)
 - David Cortés Alcántara (2022)
 - Danna Paola González Padilla (2022)
 - María Azul Rosales Nachón (2022)
-- René Ojeda Vega (2019 - 2020)
-- Israel Iván Arroyo Parada (2019 - 2021)
-- Diana Lucía Dueñas Chavez (2017 - 2020)
-- Juan Arturo Cruz Cardona (2018 - 2020)
-- Melannie Isabel Torres (2018 - 2019)
-- Luis Eduardo Espinosa (2017 - 2019)
-- Esteban Perez (2016 - 2019)
-- Victor Manuel Delgado Gnzalez (2016 - 2019)
+- María José Soto Castro (2023)
+- Diego Gerardo Sánchez Moreno (2023 - 2024)
+- Samir Baidon Pardo (2023 - 2024)
+- Diego Ernesto Sandoval Vargas (2023 - 2024)
+- Angélica Rios (2023 - 2024)
+- Carlos Rodrigo Salguero Alcántara (2024)
+- Olimpia Helena García Huerta (2024)
+
+## Mostlab
+...
+
+### Becarios involucrados:
+- Andrea Fátima Figueroa López (2023 - 2024)
+- María José Soto Castro (2023 - 2024)
+
+## Integración de Redes
+...
+
+### Becarios involucrados:
+- Diego Ernesto Sandoval Vargas (2022 - 2024)
+- Olimpia Helena García Huerta (2023 - 2024)
+
+## Página web
+...
+
+### Becarios involucrados : 
+- Andrea Fátima Figueroa López (2024)
 
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene.
@@ -130,3 +163,6 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
  ![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg) 
  2022 Alitas y Hamburguesas |  2022 Cafe Tim Hortons
  ![Comida Becarios](images/2022.jpg) |   ![Comida Becarios](images/2022dic.jpg) 
+
+ <div align="center">
+  <img src="2023dic.jpg" alt="2023 Learning Commons" width="300">
