@@ -143,7 +143,7 @@ Lista enlazada | Lista enlazada | Pilas
 - María José Soto Castro (2023 - 2024)
 
 ## Integración de Redes
-...
+Creación de una aplicación para facilitar la publicación de contenido en diversas redes sociales.
 
 ### Becarios involucrados:
 - Diego Ernesto Sandoval Vargas (2022 - 2024)
