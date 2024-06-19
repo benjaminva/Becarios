@@ -133,7 +133,11 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 - Olimpia Helena García Huerta (2024)
 
 ## Mostlab
-...
+Diseño e impresión 3D de material didáctico con enfoqué en temas de estructuras de datos y algoritmos fundamentales. Con el objetivo de facilitar la enseñanza e implementación de diversos temas teóricos.
+
+Lista enlazada | Lista enlazada | Pilas
+:-----------------------:|:-----------------------:|:-----------------------:
+![mostla1](images/mostla1.jpeg) | ![mostla2](images/mostla2.jpeg) | ![mostla3](images/mostla3.jpeg) 
 
 ### Becarios involucrados:
 - Andrea Fátima Figueroa López (2023 - 2024)
@@ -147,10 +151,11 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 - Olimpia Helena García Huerta (2023 - 2024)
 
 ## Página web
-...
+Mantenimiento de la pagina web de becarios, así como la implementación de su estructura y diseño.
 
 ### Becarios involucrados : 
 - Andrea Fátima Figueroa López (2024)
+- Leonardo Cervantes Pérez (2024)
 
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene.
