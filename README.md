@@ -12,8 +12,6 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 :-------------------------:|:-------------------------:
 ![Tech Interviews 1](images/Tech1.jpg) | ![Tech Interviews 2](images/Tech2.jpg)
 
-
-
 ### Becarios involucrados:
 - Guillermo Sanchez Barrón (2018 - 2019) (Dev.)
 - Viviana Elizabeth Dueñas Chavez (2019 - 2020) (Dev.)
@@ -47,7 +45,6 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 Lobby Edificio 2 | Lobby Edificio 2
 :-------------------------:|:-------------------------:
 ![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2c](images/lobby3.jpeg) 
- 
 
 
 ### Becarios involucrados: 
@@ -134,6 +131,8 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 
 ## Mostlab
 Diseño e impresión 3D de material didáctico con enfoqué en temas de estructuras de datos y algoritmos fundamentales. Con el objetivo de facilitar la enseñanza e implementación de diversos temas teóricos.
+
+[Repositorio](https://github.com/A01705840/3DEstructurasDatos)
 
 Lista enlazada | Lista enlazada | Pilas
 :-----------------------:|:-----------------------:|:-----------------------:
