@@ -10,7 +10,7 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 
 ![Tech Interviews 3](images/Tech3.jpg) |![Tech Interviews 4](images/Tech4.jpg)
 :-------------------------:|:-------------------------:
-![Tech Interviews 1](images/Tech1.jpg) | ![Tech Interviews 2](images/Tech2.jpg)
+![Tech Interviews 1](assets/img/Tech1.jpg) | ![Tech Interviews 2](assets/img/Tech2.jpg)
 
 ### Becarios involucrados:
 - Guillermo Sanchez Barrón (2018 - 2019) (Dev.)
@@ -45,7 +45,7 @@ Utilizar el lobby del edificio 2 (edificio de ingenierías) como un espacio inte
 
 Lobby Edificio 2 | Lobby Edificio 2
 :-------------------------:|:-------------------------:
-![Lobby Edificio 2a](images/lobby1.jpeg) | ![Lobby Edificio 2c](images/lobby3.jpeg) 
+![Lobby Edificio 2a](assets/img/lobby1.jpeg) | ![Lobby Edificio 2c](assets/img/lobby3.jpeg) 
 
 
 ### Becarios involucrados: 
@@ -67,9 +67,9 @@ Lobby Edificio 2 | Lobby Edificio 2
 
 Generación de contenidos para ser utilizado en dinámicas de gamificación como eventos de captación, y actividades extracurriculares.
 
-![games1](images/games1.JPG) | ![games2](images/games2.JPG) |![games3](images/games3.JPG) 
+![games1](assets/img/games1.JPG) | ![games2](assets/img/games2.JPG) |![games3](assets/img/games3.JPG) 
 :-------------------------:|:-------------------------:|:-------------------------:
-![games4](images/games4.JPG) | ![games5](images/games5.JPG) |![games16](images/games6.JPG) 
+![games4](assets/img/games4.JPG) | ![games5](assets/img/games5.JPG) |![games16](assets/img/games6.JPG) 
 
 
 
@@ -92,7 +92,7 @@ Alpha grader es un proyecto de libre uso por el Dr. Ruben Stranders, el proyecto
 
 Laboratorios | Pruebas | Paneles de Reportes
 :-----------------------:|:-----------------------:|:-----------------------:
-![Alpha 1](images/alpha1.png) | ![Alpha 2](images/alpha2.png) | ![Alpha 3](images/alpha3.png) 
+![Alpha 1](assets/img/alpha1.png) | ![Alpha 2](assets/img/alpha2.png) | ![Alpha 3](assets/img/alpha3.png) 
 
 
 
@@ -137,7 +137,7 @@ Diseño e impresión 3D de material didáctico con enfoqué en temas de estructu
 
 Lista enlazada | Lista enlazada | Pilas
 :-----------------------:|:-----------------------:|:-----------------------:
-![mostla1](images/mostla1.jpeg) | ![mostla2](images/mostla2.jpeg) | ![mostla3](images/mostla3.jpeg) 
+![mostla1](assets/img/mostla1.jpeg) | ![mostla2](assets/img/mostla2.jpeg) | ![mostla3](assets/img/mostla3.jpeg) 
 
 ### Becarios involucrados:
 - Andrea Fátima Figueroa López (2023 - 2024)
@@ -163,10 +163,10 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
 
  2017 Juegos de Rol | 2018  Toki Sushi
  :-----------------------: | :-----------------------: 
- ![Comida Becarios](images/2017.jpg)  | ![Comida Becarios](images/2018.jpg) 
+ ![Comida Becarios](assets/img/2017.jpg)  | ![Comida Becarios](assets/img/2018.jpg) 
  2019 Juegos de Mesa | 2020 Sushi en Pandemia 
- ![Comida Becarios](images/2019.jpg) | ![Comida Becarios](images/2020.jpg) 
+ ![Comida Becarios](assets/img/2019.jpg) | ![Comida Becarios](assets/img/2020.jpg) 
  2022 Alitas y Hamburguesas |  2022 Cafe Tim Hortons
- ![Comida Becarios](images/2022.jpg) |   ![Comida Becarios](images/2022dic.jpg) 
+ ![Comida Becarios](assets/img/2022.jpg) |   ![Comida Becarios](assets/img/2022dic.jpg) 
 2023 Learning Commons |  
- ![Comida Becarios](images/2023dic.jpg) |
+ ![Comida Becarios](assets/img/2023dic.jpg) |
