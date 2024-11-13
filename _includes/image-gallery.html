@@ -1,0 +1,34 @@
+<style>
+    .image-gallery {
+        overflow: auto;
+        margin-left: -1%!important;
+    }
+    .image-gallery li {
+        float: left;
+        display: block;
+        margin: 0 0 1% 1%;
+        width: 19%;
+        list-style-type: none;
+    }
+    .image-gallery img {
+        width: 100%;
+        height: 150px; /* Ajusta a la altura deseada */
+        object-fit: cover; /* Recorta la imagen para llenar el espacio */
+        display: block;
+        border-radius: 4px; /* Opcional: agrega bordes redondeados */
+    }
+</style>
+
+{% assign images = site.static_files | where_exp: "file", "file.path contains include.folder" %}
+{% assign images = images | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG'" %}
+{% assign images = images | sample: images.size %} 
+
+<ul class="image-gallery">
+    {% for file in images %}
+        {% assign filenameparts = file.path | split: "/" %}
+        {% assign filename = filenameparts | last | replace: file.extname, "" %}
+        <li>
+            <img src="{{ file.path | relative_url }}" alt="{{ filename }}" title="{{ filename }}" />
+        </li>
+    {% endfor %}
+</ul>
