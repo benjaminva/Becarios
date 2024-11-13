@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Acerca De
+title: Becarios
 permalink: /
 
 ---
