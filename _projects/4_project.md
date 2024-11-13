@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mostlab
+title: Mostla
 description: 
-img: assets/img/mostla3.jpeg
+img: assets/img/mostla4.jpeg
 importance: 3
 category: Tecnología
 ---
