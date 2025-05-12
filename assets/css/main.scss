@@ -1,0 +1,25 @@
+---
+---
+
+// 2. Importa el tema Minimal Mistakes
+// -----------------------------------------------------------------------------
+@import "minimal-mistakes/skins/_dark";
+@import "minimal-mistakes";
+
+
+$base-font-size: 10px;
+$h1-scale: 2;
+$h2-scale: 1.75;
+$h3-scale: 1.5;
+$leading: 1.6;
+
+// 4. Reglas CSS/SCSS específicas
+// -----------------------------------------------------------------------------
+@media (min-width: 64em) { .page { float: inline-end; width: calc(100% - 100px); padding-inline-end: 100px; } }
+@media (min-width: 80em) { .page { width: calc(100% - 100px); padding-inline-end: 100px; } }
+
+thead { background-color: #252a34; border-bottom: 2px solid #3d4046; }
+
+th { padding: 0.5em; font-weight: bold; text-align: start; }
+
+td { padding: 0.5em; border-bottom: 1px solid #3d4046; }
