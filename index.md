@@ -27,7 +27,9 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 - Olivia Araceli Morales Quezada (2022 - 2023) (Dev.)
 - Arisbeth Aguirre Pontaza (2022 - 2023) (Dev.)
 - Rodrigo Terán Hernández (2024)
-- Ximena Pérez Escalante (2024)
+- Ximena Pérez Escalante (2024 - 2025)
+- Angélica Ríos Cuentas (2024 - 2025)
+- Frida Alexia Arcadia Luna (2024 - 2025)
 
 ## Simulador para Aprendizaje usando City Skylines  (serious games)
 
@@ -42,7 +44,7 @@ El repositorio del proyecto se encuentra en [Simulador para Aprendizaje en Urban
 - Samir Baidon Pardo (2022 - 2024)
 - Carlos Salguero (2022 - 2024) (Lead Dev.)
 - Diego Gerardo Sánchez Moreno (2022 - 2024)
-- José Pablo González Ávila (2024)
+- José Pablo González Ávila (2024 - 2025)
 
 ## Despliegue de Contentidos Inteligentes 
 
@@ -64,10 +66,14 @@ Lobby Edificio 2 | Lobby Edificio 2
 - Olivia Araceli Morales Quezada (2021 - 2023) (Team Leader)
 - Cristian Leilael Rico Espinosa (2021 - 2023)
 - Humberto Mondragón García (2024)
-- Shaula Suhail Paz Garay (2024)
+- Shaula Suhail Paz Garay (2024 - 2025)
 - Frida Alexia Arcadia Luna (2024)
-- Mateo Minghi Vega (2024)
+- Mateo Minghi Vega (2024 - 2025)
 - Daniel Sebastián Cajas Morales (2024)
+- Josemaria De Alba (2024 - 2025)
+- Alejandra Arredondo (2024)
+- Diego Méndez Morales (2025)
+
 
 ## Eventos con Gamification (Juegos de Rol o Juegos de Mesa)
 
@@ -91,6 +97,12 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 - Rodrigo Terán Hernández (2022 - 2023)
 - Viviana Elizabeth Dueñas Chavez (2022 - 2023)
 - Karen Cebreros López (2022 - 2024)
+- Andrea Fátima Figueroa López (2024 - 2025)
+- José Pablo González Ávila (2024 - 2025)
+- Angélica Ríos Cuentas (2024 - 2025)
+- Alejandra Arredondo (2024 - 2025)
+- Frida Alexia Arcadia Luna (2025)
+- Mateo Minghi Vega (2025)
 
 ## Mantenimiento a plataforma Alpha Grader
 
@@ -129,12 +141,20 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 - Danna Paola González Padilla (2022)
 - María Azul Rosales Nachón (2022)
 - María José Soto Castro (2023)
-- Diego Gerardo Sánchez Moreno (2023 - 2024)
+- Diego Gerardo Sánchez Moreno (2023 - 2025)
 - Samir Baidon Pardo (2023 - 2024)
 - Diego Ernesto Sandoval Vargas (2023 - 2024)
-- Angélica Rios (2023 - 2024)
+- Angélica Rios Cuentas (2023 - 2025)
 - Carlos Rodrigo Salguero Alcántara (2024)
 - Olimpia Helena García Huerta (2024)
+- Shaula Suhail Paz Garay (|2024 - 2025)
+- Josemaría De Alba Arguelles (2024 - 2025)
+- Alejandra Arredondo (2024 - 2025)
+- Alejandro Benítez Bravo (2025)
+- Diego Méndez Morales (2025)
+- Isabel Vaca Sánchez (2025)
+- Bárbara Paola Alcántara Vega (2025)
+
 
 ## Mostlab
 Diseño e impresión 3D de material didáctico con enfoqué en temas de estructuras de datos y algoritmos fundamentales. Con el objetivo de facilitar la enseñanza e implementación de diversos temas teóricos.
@@ -160,7 +180,7 @@ Creación de una aplicación para facilitar la publicación de contenido en dive
 Mantenimiento de la pagina web de becarios, así como la implementación de su estructura y diseño por medio de Jekyll.
 
 ### Becarios involucrados : 
-- Andrea Fátima Figueroa López (2024)
+- Andrea Fátima Figueroa López (2024 - 2025)
 - Leonardo Cervantes Pérez (2024)
 
 ## Comidas de Servicio Becarios

@@ -7,7 +7,7 @@
 @import "minimal-mistakes";
 
 
-$base-font-size: 10px;
+$base-font-size: 16px;
 $h1-scale: 2;
 $h2-scale: 1.75;
 $h3-scale: 1.5;
@@ -20,6 +20,6 @@ $leading: 1.6;
 
 thead { background-color: #252a34; border-bottom: 2px solid #3d4046; }
 
-th { padding: 0.5em; font-weight: bold; text-align: start; }
+th { padding: 0.5em; font-weight: normal; text-align: start; }
 
 td { padding: 0.5em; border-bottom: 1px solid #3d4046; }
