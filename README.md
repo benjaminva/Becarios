@@ -1,10 +1,4 @@
----
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: false
----
+# Proyectos de Servicio Becario 
 
 Aquí encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a **bvaldesa@tec.mx** un semestre antes para poder platicar y ver en que proyecto podrían entrar.
 
