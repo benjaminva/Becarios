@@ -6,8 +6,6 @@ layout: single
 author_profile: false
 ---
 
-# Proyectos de Servicio Becario 
-
 Aquí encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a bvaldesa@tec.mx un semestre antes para poder platicar y ver en que proyecto podrían entrar.
 
 ## Entrenamiento para Entrevistas Técnicas o Tardes de Coding
@@ -159,7 +157,7 @@ Creación de una aplicación para facilitar la publicación de contenido en dive
 - Olimpia Helena García Huerta (2023 - 2024)
 
 ## Página web
-Mantenimiento de la pagina web de becarios, así como la implementación de su estructura y diseño.
+Mantenimiento de la pagina web de becarios, así como la implementación de su estructura y diseño por medio de Jekyll.
 
 ### Becarios involucrados : 
 - Andrea Fátima Figueroa López (2024)
