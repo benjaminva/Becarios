@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-[Aquí](https://benjaminva.github.io/Becarios/) encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a **bvaldesa@tec.mx** un semestre antes para poder platicar y ver en que proyecto podrían entrar.
+Aquí encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a **bvaldesa@tec.mx** un semestre antes para poder platicar y ver en que proyecto podrían entrar.
 
 ## Entrenamiento para Entrevistas Técnicas o Tardes de Coding
 
