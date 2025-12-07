@@ -30,6 +30,8 @@ solucionar problemas de programación competitiva, grabar videos con las solucio
 - Ximena Pérez Escalante (2024 - 2025)
 - Angélica Ríos Cuentas (2024 - 2025)
 - Frida Alexia Arcadia Luna (2024 - 2025)
+- Jacob Espejel (2025)
+- Lucca Traslosheros (2025)
 
 ## Simulador para Aprendizaje usando City Skylines  (serious games)
 
@@ -73,6 +75,7 @@ Lobby Edificio 2 | Lobby Edificio 2
 - Josemaria De Alba (2024 - 2025)
 - Alejandra Arredondo (2024)
 - Diego Méndez Morales (2025)
+- Alejandro Benítez Bravo (2025)
 
 
 ## Eventos con Gamification (Juegos de Rol o Juegos de Mesa)
@@ -103,6 +106,9 @@ Dar asesorías de programación de python y C++ a alumnos de otros semestres, se
 - Alejandra Arredondo (2024 - 2025)
 - Frida Alexia Arcadia Luna (2025)
 - Mateo Minghi Vega (2025)
+- Ximena Pérez Escalante (2025)
+- Isabel Vaca Sánchez (2025)
+- Ricardo Rodríguez Medina (2025)
 
 ## Mantenimiento a plataforma Alpha Grader
 
@@ -154,7 +160,11 @@ Revisar avances de proyecto durante el semestre para brindar retroalimentación 
 - Diego Méndez Morales (2025)
 - Isabel Vaca Sánchez (2025)
 - Bárbara Paola Alcántara Vega (2025)
-
+- Angélica Ríos Cuentas (2025)
+- Jacob Espejel (2025)
+- Juan José Goyenechi (2025)
+- Mateo Minghi Vega (2025)
+- Lucca Traslosheros (2025)
 
 ## Mostlab
 Diseño e impresión 3D de material didáctico con enfoqué en temas de estructuras de datos y algoritmos fundamentales. Con el objetivo de facilitar la enseñanza e implementación de diversos temas teóricos.
@@ -168,6 +178,18 @@ Lista enlazada | Lista enlazada | Pilas
 ### Becarios involucrados:
 - Andrea Fátima Figueroa López (2023 - 2024)
 - María José Soto Castro (2023 - 2024)
+
+## Lo Fi Music Generator
+Este proyecto desarrolla un sistema de inteligencia artificial capaz de componer música lo-fi original utilizando redes neuronales LSTM. El generador aprende patrones musicales del género lo-fi procesando archivos MIDI y puede crear composiciones completas de forma autónoma.
+
+El sistema convierte archivos MIDI en tokens numéricos (0-387) que representan notas, ritmo y dinámica. Una red neuronal con capas LSTM (1024 unidades) aprende las relaciones entre estos elementos musicales. El entrenamiento se realiza primero con piano clásico para fundamentos musicales básicos, seguido de especialización en el estilo lo-fi.
+
+Automáticamente distribuye las melodías en piano eléctrico, guitarra y bajo, añadiendo efectos de vinilo. Segun el pitch de las notas para emular mas el sonido del genero.
+
+[Drive](https://drive.google.com/drive/folders/1R874MP9nQrmBRTydAydzBQC5noExXu_e?usp=sharing)
+
+### Becarios involucrados:
+- Juan José Goyeneche (2025)
 
 ## Integración de Redes
 Creación de una aplicación para facilitar la publicación de contenido en diversas redes sociales.
@@ -186,13 +208,14 @@ Mantenimiento de la pagina web de becarios, así como la implementación de su e
 ## Comidas de Servicio Becarios
 Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planear las asignaciones del semestre que viene.
 
-
  2017 Juegos de Rol | 2018  Toki Sushi
  :-----------------------: | :-----------------------: 
  ![Comida Becarios](assets/images/2017.jpg)  | ![Comida Becarios](assets/images/2018.jpg) 
  2019 Juegos de Mesa | 2020 Sushi en Pandemia 
  ![Comida Becarios](assets/images/2019.jpg) | ![Comida Becarios](assets/images/2020.jpg) 
  2022 Alitas y Hamburguesas |  2022 Cafe Tim Hortons
- ![Comida Becarios](assets/images/2022.jpg) |   ![Comida Becarios](assets/images/2022dic.jpg) 
-2023 Learning Commons |  
- ![Comida Becarios](assets/images/2023dic.jpg) |
+ ![Comida Becarios](assets/images/2022.jpg) | ![Comida Becarios](assets/images/2022dic.jpg) 
+2023 Learning Commons | 
+ ![Comida Becarios](assets/images/2023dic.jpg) | 
+2025 Juegos de Mesa y comida 
+ ![Comida Becarios](assets/images/2025feb.jpeg) |  ![Comida Becarios](assets/images/2025febJuegos.jpeg)
