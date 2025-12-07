@@ -6,13 +6,13 @@ layout: single
 author_profile: false
 ---
 
-Aquí encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a **bvaldesa@tec.mx** un semestre antes para poder platicar y ver en que proyecto podrían entrar.
+[Aquí](https://benjaminva.github.io/Becarios/) encontraran todos los proyectos de servicio becario realizados con el Dr. Benjamín Váldés si gustan integrarse a algún proyecto por favor envien un correo a **bvaldesa@tec.mx** un semestre antes para poder platicar y ver en que proyecto podrían entrar.
 
 ## Entrenamiento para Entrevistas Técnicas o Tardes de Coding
 
 solucionar problemas de programación competitiva, grabar videos con las soluciones y hospedar pláticas con invitados de compañías BigTech como: Microsoft, Google, Facebook, para que los alumnos entiendan como funciona la industria, el proceso de reclutamiento y las entrevistas técnicas
 
-[Canal de youtube tardes de coding](https://www.youtube.com/channel/UCaDLn1cv__Xz93lhLpLCKWw)
+
 
 ![Tech Interviews 3](assets/images/Tech3.jpg) |![Tech Interviews 4](assets/images/Tech4.jpg)
 :-------------------------:|:-------------------------:
