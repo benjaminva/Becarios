@@ -215,7 +215,5 @@ Normalmente nos reunimos a fin de semestre a platicar sobre lo ocurrido y planea
  ![Comida Becarios](assets/images/2019.jpg) | ![Comida Becarios](assets/images/2020.jpg) 
  2022 Alitas y Hamburguesas |  2022 Cafe Tim Hortons
  ![Comida Becarios](assets/images/2022.jpg) | ![Comida Becarios](assets/images/2022dic.jpg) 
-2023 Learning Commons | 
- ![Comida Becarios](assets/images/2023dic.jpg) | 
-2025 Juegos de Mesa y comida 
- ![Comida Becarios](assets/images/2025feb.jpeg) |  ![Comida Becarios](assets/images/2025febJuegos.jpeg)
+2023 Learning Commons | 2025 Juegos de Mesa y comida 
+ ![Comida Becarios](assets/images/2023dic.jpg) | ![Comida Becarios](assets/images/2025feb.jpeg)
